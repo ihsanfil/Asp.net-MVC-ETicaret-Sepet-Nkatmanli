@@ -1,0 +1,1 @@
+C:\Users\ihsan\source\repos\Northwind\Northwind.WcfLibrary\obj\Release\Northwind.WcfLibrary.csproj.CoreCompileInputs.cache

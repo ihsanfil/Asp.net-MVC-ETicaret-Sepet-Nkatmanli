@@ -1,0 +1,13 @@
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\JetBrains.Annotations.dll
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\JetBrains.Annotations.xml
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\Northwind.Entities.dll.config
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\System.Web.Mvc.dll
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\bin\Debug\System.Web.Mvc.xml
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+﻿@model Northwind.Entities.Cart
+
+<div class="btn-cart">
+    <span>
+        <b>Your Cart(@Model.Lines.Sum(i=>i.Quantity)):</b>
+        @Model.Total.ToString("C")
+    </span>
+  |  @Html.ActionLink("Checkout","Index","Cart",new {@class="text-white"})
+</div>

@@ -1,0 +1,2 @@
+C:\Users\ihsan\source\repos\Northwind\Northwind.DAL\obj\Release\Northwind.DAL.csprojAssemblyReference.cache
+C:\Users\ihsan\source\repos\Northwind\Northwind.DAL\obj\Release\Northwind.DAL.csproj.CoreCompileInputs.cache

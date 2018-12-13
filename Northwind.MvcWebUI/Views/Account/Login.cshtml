@@ -1,0 +1,21 @@
+﻿@model Northwind.Entities.User
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>title</title>
+</head>
+<body>
+    <div>
+
+        @using (Html.BeginForm("Login", "Account"))
+        {
+            @Html.ValidationSummary()
+            @Html.EditorForModel()
+            <input type="submit" value="LOGİN" />
+
+        }
+    </div>
+</body>
+</html>

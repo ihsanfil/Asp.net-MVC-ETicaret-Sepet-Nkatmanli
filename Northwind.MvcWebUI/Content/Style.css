@@ -1,0 +1,31 @@
+﻿/* Style the buttons */
+.btn-cart {
+    border: none;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #666;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    float: right;
+   
+}
+.btn{
+    border: 1px solid;
+    outline: none;
+    padding: 10px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+/* Style the active class, and buttons on mouse-over */
+    .selected{
+        border: 1px solid;
+        outline: none;
+        background-color: #666;
+        color: white;
+        padding: 10px 16px;
+        cursor: pointer;
+        font-size: 18px;
+    }

@@ -1,0 +1,2 @@
+C:\Users\ihsan\source\repos\Northwind\Northwind.Interfaces\obj\Release\Northwind.Interfaces.csprojAssemblyReference.cache
+C:\Users\ihsan\source\repos\Northwind\Northwind.Interfaces\obj\Release\Northwind.Interfaces.csproj.CoreCompileInputs.cache

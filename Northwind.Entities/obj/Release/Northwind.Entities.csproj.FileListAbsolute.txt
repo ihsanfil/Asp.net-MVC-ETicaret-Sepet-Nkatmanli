@@ -1,0 +1,2 @@
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Release\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\ihsan\source\repos\Northwind\Northwind.Entities\obj\Release\Northwind.Entities.csproj.CoreCompileInputs.cache
